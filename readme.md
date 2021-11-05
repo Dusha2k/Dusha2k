@@ -9,8 +9,6 @@
 
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓔 💬 :
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dusha2k/Dusha2k/blob/main/assets/gifs/madara.gif?raw=true">
-
 ### - I'm 24 years old Front-end Developer from Russia.
 
 ### - Currently work at SmartData.
@@ -47,6 +45,8 @@
 <img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/redux-saga.svg"/>
 
 # 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 :
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Dusha2k/Dusha2k/blob/main/assets/gifs/jiraiya.gif?raw=true">
 
 ### If you want to reach out to me about anything, </br> be it some doubt or just to hang out and talk or want to game together just ping me
 
