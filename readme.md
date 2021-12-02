@@ -19,7 +19,6 @@
 - ✨ **Sleep** 😴
 - ✨ **Programming is also my hobby, but also my job** ❤
 
-</br>
 <img src="https://www.codewars.com/users/Dusha2k/badges/small" />
 
 # 𝓜𝔂 𝓽𝓮𝓬𝓱 𝓼𝓽𝓪𝓬𝓴 🛠 :
