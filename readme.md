@@ -9,9 +9,9 @@
 
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓔 💬 :
 
-### - I'm 24 years old Front-end Developer from Russia.
+### - I'm 25 years old Front-end Developer from Russia.
 
-### - Currently work at SmartData.
+### - Currently work at GetGain.
 
 ### - Hobbies :
 - ✨ **Gaming Addict** 👨‍💻
@@ -36,13 +36,13 @@
 &nbsp;
 <img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/typescript-icon.svg"/>
 &nbsp;
-<img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/mobx.svg"/>
+<img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/redux.svg"/>
 </br>
 </br>
 **Previously worked with :**
 </br>
 </br>
-<img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/redux.svg"/>
+<img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/mobx.svg"/>
 &nbsp;
 <img width=50 height=50 src="https://raw.githubusercontent.com/Dusha2k/Dusha2k/ac65494ca2739f7c5e5b8f643b2aa75ff9ed2234/assets/icons/redux-saga.svg"/>
 
